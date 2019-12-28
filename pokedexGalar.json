@@ -1,0 +1,67 @@
+[{
+    "id": 1,
+    "name": {
+      "english": "Grookey",
+      "japanese": "サルノリ",
+      "german": "Chimpep",
+      "french": "Ouistempo",
+      "korean": "흥나숭"
+    },
+    "type": [
+      "Grass"
+    ],
+    "base": {
+      "HP": 50,
+      "Attack": 65,
+      "Defense": 50,
+      "Sp. Attack": 40,
+      "Sp. Defense": 40,
+      "Speed": 65
+    }
+  },
+ {
+    "id": 2,
+    "name": {
+      "english": "Thwackey",
+      "japanese": "バチンキー",
+      "german": "nil",
+      "french": "nil",
+      "korean": "nil"
+    },
+    "type": [
+      "Grass",
+      "nil"
+    ],
+    "base": {
+      "HP": 0,
+      "Attack": 0,
+      "Defense": 0,
+      "Sp. Attack": 0,
+      "Sp. Defense": 0,
+      "Speed": 0 
+    }
+  },
+  {
+    "id": 2,
+    "name": {
+      "english": "",
+      "japanese": "nil",
+      "german": "nil",
+      "french": "nil",
+      "korean": "nil"
+    },
+    "type": [
+      "",
+      "nil"
+    ],
+    "base": {
+      "HP": 0,
+      "Attack": 0,
+      "Defense": 0,
+      "Sp. Attack": 0,
+      "Sp. Defense": 0,
+      "Speed": 0 
+    }
+  }
+
+ ]
